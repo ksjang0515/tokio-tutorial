@@ -1,0 +1,8 @@
+[package]
+name = "spawning"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+mini-redis = "0.4.1"
+tokio = "1.40.0"

@@ -1,0 +1,9 @@
+[package]
+name = "shared_state"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytes = "1.8.0"
+mini-redis = "0.4.1"
+tokio = "1.41.0"
